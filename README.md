@@ -17,4 +17,6 @@
 
 3. CI/CD
 
-4. Reference Resources
+4. Jenkins Pipeline
+
+5. Reference Resources

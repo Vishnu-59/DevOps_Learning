@@ -16,10 +16,27 @@ https://www.youtube.com/watch?v=cnA6AwUeiHU
 
 https://www.youtube.com/watch?v=361bfIvXMBI
 
+
+Jenkins:
+
 https://www.cloudbees.com/jenkins/what-is-jenkins
 
 https://www.cloudbees.com/blog/best-practices-for-jenkins-pipeline
 
+https://www.jenkins.io/doc/book/installing/windows/
+
+https://www.jenkins.io/doc/book/pipeline/jenkinsfile/
+
+https://www.jenkins.io/pipeline/getting-started-pipelines/
+
 https://www.jenkins.io/doc/pipeline/tour/getting-started/
 
+https://www.jenkins.io/doc/pipeline/tour/hello-world/
+
+https://devopscube.com/java-continuos-integration-jenkins-beginners-guide/
+
+https://devopscube.com/jenkins-build-trigger-github-pull-request/
+
 https://devopscube.com/jenkins-multibranch-pipeline-tutorial/
+
+
